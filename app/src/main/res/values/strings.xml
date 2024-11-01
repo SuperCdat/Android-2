@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GFFS JAVA</string>
+    <string name="checkbox1stringAcm">Đồng ý là có thể bị hack</string>
+    <string name="textview1stringAcm">Chào Mừng</string>
+    <string name="button1stringAcm">Đăng Nhập</string>
+    <string name="truochethaydangnhap">Hãy đăng nhập trước tiên</string>
+    <string name="Tencuaban">Tên của bạn</string>
+    <string name="Kodangnhap">Cách Khác 💀</string>
+</resources>
